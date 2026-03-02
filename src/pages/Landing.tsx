@@ -3,6 +3,7 @@ import { useNavigate, Navigate } from "react-router-dom";
 import { Shield, Search, Download } from "lucide-react";
 import { useUser } from "../context/UserContext";
 import DotGrid from "@/components/DotGrid";
+import BlurText from "../components/BlurText";
 
 export function Landing() {
   const { userData } = useUser();
@@ -63,9 +64,30 @@ export function Landing() {
           transition={{ duration: 0.8, ease: "easeOut" }}
           className="max-w-4xl"
         >
-          <h2 className="text-7xl md:text-9xl font-display font-black tracking-tighter mb-8 uppercase leading-none">
-            Detect. <span className="text-cyber-blue drop-shadow-[0_0_30px_rgba(16,185,129,0.5)]">Verify.</span> Trust.
-          </h2>
+          <div className="text-7xl md:text-9xl font-display font-black tracking-tighter mb-8 uppercase leading-none flex flex-wrap justify-center gap-x-6">
+            <BlurText
+              text="Detect."
+              delay={120}
+              animateBy="words"
+              direction="top"
+            />
+
+            <span className="text-cyber-blue drop-shadow-[0_0_30px_rgba(16,185,129,0.5)]">
+              <BlurText
+                text="Verify."
+                delay={220}
+                animateBy="words"
+                direction="top"
+              />
+            </span>
+
+            <BlurText
+              text="Trust."
+              delay={320}
+              animateBy="words"
+              direction="top"
+            />
+          </div>
           <p className="text-zinc-500 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed mb-12 font-mono uppercase tracking-wide">
             The world's first multi-modal AI forensic investigator. Upload text, images, or video to get a comprehensive forensic analysis.
           </p>
