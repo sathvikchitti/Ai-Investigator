@@ -189,6 +189,6 @@ This project was built with:
 Developed by 
 Venkata Sathvik Chittipaka(github.com/sathvikchitti)
 Udatha Prashanth (github.com/uprashanth222)
-Bantu Sai Manaswini (github.com/)
+Bantu Sai Manaswini (github.com/saimanaswini1221)
 
 for Vibeathon@SmartDhee KMEC
