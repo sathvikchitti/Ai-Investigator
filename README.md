@@ -187,8 +187,8 @@ This project was built with:
 ## 👨‍💻 Author
 
 Developed by 
-Venkata Sathvik Chittipaka(github.com/sathvikchitti)
-Udatha Prashanth (github.com/uprashanth222)
-Bantu Sai Manaswini (github.com/saimanaswini1221)
+Venkata Sathvik Chittipaka(https://github.com/sathvikchitti)
+Udatha Prashanth (https://github.com/uprashanth222)
+Bantu Sai Manaswini (https://github.com/saimanaswini1221)
 
 for Vibeathon@SmartDhee KMEC
