@@ -184,11 +184,16 @@ This project was built with:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Team
 
-Developed by 
-Venkata Sathvik Chittipaka(github.com/sathvikchitti)
-Udatha Prashanth (github.com/uprashanth222)
-Bantu Sai Manaswini (github.com/saimanaswini1221)
+**AI Investigator** was developed for **Vibeathon @ SmartDhee KMEC** by:
 
-for Vibeathon@SmartDhee KMEC
+- **[Venkata Sathvik Chittipaka](https://github.com/sathvikchitti)**   
+- **[Udatha Prashanth](https://github.com/uprashanth222)** 
+- **[Bantu Sai Manaswini](https://github.com/saimanaswini1221)** 
+
+### 🔗 GitHub Contributors
+
+<a href="https://github.com/sathvikchitti/Ai-Investigator/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sathvikchitti/Ai-Investigator" />
+</a>
